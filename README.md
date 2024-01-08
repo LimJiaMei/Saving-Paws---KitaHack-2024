@@ -13,7 +13,7 @@
 3. [User Feedback](/User%20Feedback)
 4. [Prototype (Figma)](#prototype)
 5. [Pitching Slides](/Pitching%20Slides.pdf)
-6. [Demo Video](/Demo%20Video)
+6. [Demo Video](#video)
 
 <br/>
 <h2 id="documentation">Documentation 📑 </h2>
@@ -39,7 +39,7 @@ Download the [**documentation**](/Documentation.docx) for project details.
 Feel free to have a look at our prototype created using Figma: [**Click Here**](https://www.figma.com/proto/9pKPwI5qP7B87AK3uo5VtE/Saving-Paws?type=design&node-id=3-2&t=jASPy7ERpStwes2X-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2)
 
 <br/>
-<h2 id="examples">Examples :eyes:</h2>
+<h2 id="video">Video :eyes:</h2>
 
 Discover everything you'd like to know about Saving Paws in just one video:
 
