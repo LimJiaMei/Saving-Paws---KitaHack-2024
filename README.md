@@ -35,8 +35,8 @@ Download the [**documentation**](/Documentation.docx) for project details.
 <br/>
 <h2 id="prototype">The Prototype 🧰 </h2>
 
-![prototype](https://github.com/LimJiaMei/Saving-Paws---KitaHack-2024/blob/main/Infographic/Matching%20System.png)
-Feel free to have a look at our prototype created using Figma: [**Click Here**](https://www.figma.com/proto/9pKPwI5qP7B87AK3uo5VtE/Saving-Paws?type=design&node-id=3-2&t=jASPy7ERpStwes2X-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2)
+[![prototype](https://github.com/JYplusOne/Saving-Paws-Visual/blob/main/Banner/SP%20Prototype%20Cover.png)](https://www.figma.com/proto/9pKPwI5qP7B87AK3uo5VtE/Saving-Paws?type=design&node-id=3-2&t=jASPy7ERpStwes2X-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2)
+Feel free to have a look at our prototype: [**Click Here**](https://www.figma.com/proto/9pKPwI5qP7B87AK3uo5VtE/Saving-Paws?type=design&node-id=3-2&t=jASPy7ERpStwes2X-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2)
 
 <br/>
 <h2 id="video">Video :eyes:</h2>
