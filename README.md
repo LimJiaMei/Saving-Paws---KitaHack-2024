@@ -6,8 +6,8 @@ Saving Paws, an app to address the prevalent issue of lost pets and the challeng
 1. [Documentation](/Documentation.docx)
 3. [Prototype (Figma)](/Prototype)
 4. [Infographic](/Infographic)
-    * [App Architecture](/Apps-Architecture.png)
-    * [Matching System](/Matching-System.png)
+    * [App Architecture](Infographic/Apps-Architecture.png)
+    * [Matching System](Infographic/Matching-System.png)
 5. [Pitching Slides](Pitching-Slides.pdf)
 6. [Demo Video](/Demo-Video)
 
