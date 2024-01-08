@@ -1,8 +1,7 @@
 ![banner](https://github.com/JYplusOne/Saving-Paws-Visual/blob/main/Banner/SP%20Banner.png) <br>
 :paw_prints: An app to address the prevalent issue of lost pets and the challenges faced by owners in reuniting with their missing companions :paw_prints:
-
-[![Prototype](https://github.com/JYplusOne/Saving-Paws-Visual/blob/main/Banner/View%20Prototype%20Tag.png)]([http://twitter.com/mpandroidchart](https://www.figma.com/proto/9pKPwI5qP7B87AK3uo5VtE/Saving-Paws?type=design&node-id=3-2&t=jASPy7ERpStwes2X-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2))
-[![Video](https://github.com/JYplusOne/Saving-Paws-Visual/blob/main/Banner/View%20Prototype%20Tag.png)]([http://twitter.com/mpandroidchart](https://www.figma.com/proto/9pKPwI5qP7B87AK3uo5VtE/Saving-Paws?type=design&node-id=3-2&t=jASPy7ERpStwes2X-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2))
+[![Prototype](https://github.com/JYplusOne/Saving-Paws-Visual/blob/main/Banner/View%20Prototype%20Tag.png)](https://www.figma.com/proto/9pKPwI5qP7B87AK3uo5VtE/Saving-Paws?type=design&node-id=3-2&t=jASPy7ERpStwes2X-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2)
+[![Video](https://github.com/JYplusOne/Saving-Paws-Visual/blob/main/Banner/View%20Prototype%20Tag.png)](https://www.figma.com/proto/9pKPwI5qP7B87AK3uo5VtE/Saving-Paws?type=design&node-id=3-2&t=jASPy7ERpStwes2X-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2)
 
 
 ### Table of Contents
