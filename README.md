@@ -10,10 +10,11 @@
 2. [Infographic](/Infographic)
     * [App Architecture](#architecture)
     * [Matching System](#matching)
-3. [User Feedback](/User%20Feedback)
-4. [Prototype (Figma)](#prototype)
-5. [Pitching Slides](/Pitching%20Slides.pdf)
-6. [Demo Video](#video)
+3. [Prototype (Figma)](#prototype)
+4. [Demo Video](#video)
+5. [More](#more)
+    * [User Feedback](/User%20Feedback)
+    * [Pitching Slides](/Pitching%20Slides.pdf)
 
 <br/>
 <h2 id="documentation">Documentation 📑 </h2>
@@ -46,5 +47,10 @@ Discover everything you'd like to know about Saving Paws in just one video:
 [![Video](https://github.com/JYplusOne/Saving-Paws-Visual/blob/main/Banner/SP%20Video.png)](https://youtu.be/BxuY9FET9Y4?feature=shared)
 
 <br/>
+<h2 id="more">More 📚</h2>
 
+Extra materials:
 
+User Feedback: [**Download and View**](https://www.figma.com/proto/9pKPwI5qP7B87AK3uo5VtE/Saving-Paws?type=design&node-id=3-2&t=jASPy7ERpStwes2X-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2)
+
+Pitching Slides: [**Download and View**](https://www.figma.com/proto/9pKPwI5qP7B87AK3uo5VtE/Saving-Paws?type=design&node-id=3-2&t=jASPy7ERpStwes2X-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2)
