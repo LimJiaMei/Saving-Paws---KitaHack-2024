@@ -43,8 +43,7 @@ Feel free to have a look at our prototype: [**Click Here**](https://www.figma.co
 <h2 id="video">Video :eyes:</h2>
 
 Discover everything you'd like to know about Saving Paws in just one video:
-
-[![Video](https://youtu.be/U5C0fkNTvZU)
+[![Videot](https://github.com/JYplusOne/Saving-Paws-Visual/blob/main/Banner/SP%20Video.png)](https://youtu.be/U5C0fkNTvZU)
 
 <br/>
 <h2 id="more">More 📚</h2>
