@@ -2,7 +2,7 @@
 Saving Paws, an app to address the prevalent issue of lost pets and the challenges faced by owners in reuniting with their missing companions. 
 
 
-## Table of Contents
+### Table of Contents
 1. [Documentation](#Documentation)
 2. [Prototype (Figma)](#Prototype)
 3. [Infographics](#Infographics)
@@ -10,12 +10,12 @@ Saving Paws, an app to address the prevalent issue of lost pets and the challeng
     * [subitem2](#subitem2)
 
 
-## Documentation
+### Documentation
 
-## Prototype
+### Prototype
 
-## Infographics
+### Infographics
 
-## subitem1
+### subitem1
 
-## subitem2
+### subitem2
