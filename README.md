@@ -11,7 +11,7 @@
     * [App Architecture](#architecture)
     * [Matching System](#matching)
 3. [User Feedback](/User%20Feedback)
-4. [Prototype (Figma)](/Prototype)
+4. [Prototype (Figma)](#prototype)
 5. [Pitching Slides](/Pitching%20Slides.pdf)
 6. [Demo Video](/Demo%20Video)
 
@@ -29,8 +29,21 @@ Download the [**documentation**](/Documentation.docx) for project details.
 <br/>
 <h2 id="matching">The Post Matching 🚩 </h2>
 
-![amatching](https://github.com/LimJiaMei/Saving-Paws---KitaHack-2024/blob/main/Infographic/Matching%20System.png)
+![matching](https://github.com/LimJiaMei/Saving-Paws---KitaHack-2024/blob/main/Infographic/Matching%20System.png)
 [**Download**](https://github.com/LimJiaMei/Saving-Paws---KitaHack-2024/blob/main/Infographic/Matching%20System.png) this Figure.
+
+<br/>
+<h2 id="prototype">The Prototype 🧰 </h2>
+
+![prototype](https://github.com/LimJiaMei/Saving-Paws---KitaHack-2024/blob/main/Infographic/Matching%20System.png)
+Feel free to have a look at our prototype created using Figma: [**Click Here**](https://www.figma.com/proto/9pKPwI5qP7B87AK3uo5VtE/Saving-Paws?type=design&node-id=3-2&t=jASPy7ERpStwes2X-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2)
+
+<br/>
+<h2 id="examples">Examples :eyes:</h2>
+
+Discover everything you'd like to know about Saving Paws in just one video:
+
+[![Video](https://github.com/JYplusOne/Saving-Paws-Visual/blob/main/Banner/SP%20Video.png)](https://youtu.be/BxuY9FET9Y4?feature=shared)
 
 <br/>
 
