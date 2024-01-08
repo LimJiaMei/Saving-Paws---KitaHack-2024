@@ -24,7 +24,7 @@ Download the [**documentation**](/Documentation.docx) for project details.
 <h2 id="architecture">The App Architecture ⚙️ </h2>
 
 ![architecture](https://github.com/LimJiaMei/Saving-Paws---KitaHack-2024/blob/main/Infographic/Apps%20Architecture.png)
-[**Download**]([/Documentation.docx](https://github.com/LimJiaMei/Saving-Paws---KitaHack-2024/blob/main/Infographic/Apps%20Architecture.png)https://github.com/LimJiaMei/Saving-Paws---KitaHack-2024/blob/main/Infographic/Apps%20Architecture.png) this Figure.
+[**Download**](https://github.com/LimJiaMei/Saving-Paws---KitaHack-2024/blob/main/Infographic/Apps%20Architecture.png) this Figure.
 
 <br/>
 
