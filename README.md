@@ -3,7 +3,7 @@
 [![Prototype](https://github.com/JYplusOne/Saving-Paws-Visual/blob/main/Banner/View%20Prototype%20Tag.png)](https://www.figma.com/proto/9pKPwI5qP7B87AK3uo5VtE/Saving-Paws?type=design&node-id=3-2&t=jASPy7ERpStwes2X-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2) 
   [![Video](https://github.com/JYplusOne/Saving-Paws-Visual/blob/main/Banner/View%20Video%20Tag.png)](https://www.figma.com/proto/9pKPwI5qP7B87AK3uo5VtE/Saving-Paws?type=design&node-id=3-2&t=jASPy7ERpStwes2X-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2)
   
-<br/><br/>
+<br/>
 
 ## Table of Contents
 1. [Documentation](#documentation)
