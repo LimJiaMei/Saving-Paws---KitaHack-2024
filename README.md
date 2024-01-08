@@ -51,6 +51,6 @@ Discover everything you'd like to know about Saving Paws in just one video:
 
 Extra materials:
 
-User Feedback: [**Download and View**](https://www.figma.com/proto/9pKPwI5qP7B87AK3uo5VtE/Saving-Paws?type=design&node-id=3-2&t=jASPy7ERpStwes2X-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2)
+User Feedback: [**Download and View**](https://github.com/LimJiaMei/Saving-Paws---KitaHack-2024/blob/main/User%20Feedback/Saving%20Paws%20_%20User%20Feedback.xlsx)
 
-Pitching Slides: [**Download and View**](https://www.figma.com/proto/9pKPwI5qP7B87AK3uo5VtE/Saving-Paws?type=design&node-id=3-2&t=jASPy7ERpStwes2X-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2)
+Pitching Slides: [**Download and View**](https://github.com/LimJiaMei/Saving-Paws---KitaHack-2024/blob/main/Pitching%20Slides.pdf)
