@@ -29,8 +29,8 @@ Download the [**documentation**](/Documentation.docx) for project details.
 <br/>
 <h2 id="matching">The Post Matching 🚩 </h2>
 
-![amatching](https://github.com/LimJiaMei/Saving-Paws---KitaHack-2024/blob/main/Infographic/Apps%20Architecture.png)
-[**Download**](https://github.com/LimJiaMei/Saving-Paws---KitaHack-2024/blob/main/Infographic/Apps%20Architecture.png) this Figure.
+![amatching](https://github.com/LimJiaMei/Saving-Paws---KitaHack-2024/blob/main/Infographic/Matching%20System.png)
+[**Download**](https://github.com/LimJiaMei/Saving-Paws---KitaHack-2024/blob/main/Infographic/Matching%20System.png) this Figure.
 
 <br/>
 
