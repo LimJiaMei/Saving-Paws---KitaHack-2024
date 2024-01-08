@@ -8,8 +8,8 @@
 ## Table of Contents
 1. [Documentation](#documentation)
 2. [Infographic](/Infographic)
-    * [App Architecture](Infographic/Apps%20Architecture.png)
-    * [Matching System](Infographic/Matching%20System.png)
+    * [App Architecture](#architecture)
+    * [Matching System](#matching)
 3. [User Feedback](/User%20Feedback)
 4. [Prototype (Figma)](/Prototype)
 5. [Pitching Slides](/Pitching%20Slides.pdf)
@@ -24,6 +24,12 @@ Download the [**documentation**](/Documentation.docx) for project details.
 <h2 id="architecture">The App Architecture ⚙️ </h2>
 
 ![architecture](https://github.com/LimJiaMei/Saving-Paws---KitaHack-2024/blob/main/Infographic/Apps%20Architecture.png)
+[**Download**](https://github.com/LimJiaMei/Saving-Paws---KitaHack-2024/blob/main/Infographic/Apps%20Architecture.png) this Figure.
+
+<br/>
+<h2 id="matching">The Post Matching 🚩 </h2>
+
+![amatching](https://github.com/LimJiaMei/Saving-Paws---KitaHack-2024/blob/main/Infographic/Apps%20Architecture.png)
 [**Download**](https://github.com/LimJiaMei/Saving-Paws---KitaHack-2024/blob/main/Infographic/Apps%20Architecture.png) this Figure.
 
 <br/>
