@@ -50,6 +50,6 @@ Discover everything you'd like to know about Saving Paws in just one video:
 
 Extra materials:
 
-User Feedback: [**Download and View**](https://github.com/LimJiaMei/Saving-Paws---KitaHack-2024/blob/main/User%20Feedback/Saving%20Paws%20_%20User%20Feedback.xlsx)
+User Feedbacks: [**Download and View**](https://github.com/LimJiaMei/Saving-Paws---KitaHack-2024/blob/main/User%20Feedback/Saving%20Paws%20_%20User%20Feedback.xlsx)
 
 Pitching Slides: [**Download and View**](https://github.com/LimJiaMei/Saving-Paws---KitaHack-2024/blob/main/Pitching%20Slides.pdf)
